@@ -42,7 +42,8 @@ Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
 <h3>Our solution works like a digital guide for farmers. It starts by collecting crop images and other data, which is then cleaned and prepared. The system improves this data through segmentation and augmentation so that the AI learns better. A deep learning model is trained to recognize both crops and insects. Once tested and deployed, it can quickly detect crop diseases or insect attacks in the field. The most important step is that it doesn’t just stop at detection it gives farmers simple, practical advice they can follow to protect their crops, reduce losses, and increase yield.</h3>
-![alt text](image.png)
+<img width="961" height="630" alt="image" src="https://github.com/user-attachments/assets/1a0c94f1-0d4e-415b-8cea-c1a39a826dff" />
+
 
 
 ## Technical Approach
