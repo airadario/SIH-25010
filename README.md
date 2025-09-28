@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:28.09.2025
+## Register Number:25016155
+## Name:A.Aira Dario
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,19 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+<h3>Our solution works like a digital guide for farmers. It starts by collecting crop images and other data, which is then cleaned and prepared. The system improves this data through segmentation and augmentation so that the AI learns better. A deep learning model is trained to recognize both crops and insects. Once tested and deployed, it can quickly detect crop diseases or insect attacks in the field. The most important step is that it doesn’t just stop at detection it gives farmers simple, practical advice they can follow to protect their crops, reduce losses, and increase yield.</h3>
+![alt text](image.png)
+
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+<h3>Soil moisture sensors, weather stations, and crop health monitoring via drones for precision irrigation and fertilizer management.Soil moisture sensors, weather stations, and crop health monitoring via drones for precision irrigation and fertilizer management.</h3>
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+<h3>Mobile apps, chatbots, and SMS/IVR systems are already proven technologies in rural India.AI/ML models for weather forecasts, soil health, and crop advisory can be developed using open datasets.Cloud platforms ensure scalability and low-cost deployment.High, since better advisory leads to increased yields, reduced input costs, and higher profits. Freemium app, agri-input company sponsorships, and government subsidies.</h3>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+<h3>Provides small and marginal farmers with real-time, scientific crop advisory instead of relying on guesswork or local shopkeepers.Boosts crop yield and quality by offering soil health insights, weather-based alerts, and pest control guidance.Higher income for farmers through better yields and reduced losses.Creation of new opportunities in agri-tech, rural advisory services, and local entrepreneurship.</h3>
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<h3>www.agrevolution.in</h3>
+<h4>www.pickapp.farm</h4>
